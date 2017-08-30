@@ -1,8 +1,8 @@
 {
-    "name": "magento/magento2ce",
+    "name": "magento/magento2-base",
     "description": "Magento 2 (Community Edition)",
     "type": "project",
-    "version": "2.1.8",
+    "version": "2.1.8.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
